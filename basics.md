@@ -359,9 +359,12 @@ Important Properties of Dictionaries
 
 Dictionaries are widely used for fast lookups, counting occurrences of elements, grouping data, and representing JSON-like structures.
 
+for i in range(1, 11):
+    print(i)
 
-for <condition>:
-    #instructions
+for <variable> in <sequence>:
+    # instructions
+
 else:
     #instructions
 
